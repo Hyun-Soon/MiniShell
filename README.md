@@ -40,8 +40,5 @@ To compile and run this program, you'll need:
 
 ## 🙌 Collaborator
 |![임현순](https://avatars.githubusercontent.com/u/66724166)|![구혁모](https://avatars.githubusercontent.com/u/115722373?v=4)|
-
-## 🙌 Collaborator
-|![임현순](https://avatars.githubusercontent.com/u/66724166)|![구혁모](https://avatars.githubusercontent.com/u/115722373?v=4)|
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|
 |[임현순](https://github.com/Hyun-Soon)|[구혁모](https://github.com/siru02)|

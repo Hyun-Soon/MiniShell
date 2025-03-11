@@ -37,3 +37,6 @@ To compile and run this program, you'll need:
 - Supports **pipes (`|`)** for command chaining.  
 - Handles **signals** like `Ctrl+C` and `Ctrl+D`.  
 - Manages child processes using `fork()`.  
+
+## 🙌 Collaborator
+|![임현순](https://avatars.githubusercontent.com/u/66724166)|![구혁모](https://avatars.githubusercontent.com/u/115722373?v=4)|

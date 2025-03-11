@@ -3,7 +3,7 @@
 ## 📌 **Description**  
 Minishell is a simple shell program inspired by **Bash**. It replicates key functionalities of a shell, including command execution, piping, and signal handling.  
 
-![Image](https://github.com/user-attachments/assets/55caea95-57e7-4f3c-b819-cfb056ecb56c)
+<img width="1025" alt="Image" src="https://github.com/user-attachments/assets/a437d0e9-f16b-45eb-9513-20ada7a82a9d" />
 
 ## 📜 **Prerequisites**
 To compile and run this program, you'll need:
